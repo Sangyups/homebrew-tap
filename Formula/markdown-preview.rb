@@ -1,8 +1,8 @@
 class MarkdownPreview < Formula
   desc "Terminal-first desktop Markdown previewer with live reload and Mermaid"
   homepage "https://github.com/Sangyups/markdown-preview"
-  url "https://github.com/Sangyups/markdown-preview/releases/download/v1.1.6/markdown-preview-1.1.6.tgz"
-  sha256 "b417c59b78700a47bba927c47a323a056f60e5b53eaa5dc71f02ebf92c9b993a"
+  url "https://github.com/Sangyups/markdown-preview/releases/download/v1.2.0/markdown-preview-1.2.0.tgz"
+  sha256 "cac7164eeaaa32abd381952b44602fe017a919692698bc4a2c29a421f921d4e7"
   license "MIT"
 
   depends_on "node"
